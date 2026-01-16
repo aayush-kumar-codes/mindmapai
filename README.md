@@ -69,5 +69,3 @@
    3. Commit the initial setup:
    bash
    git commit -m "Initial project setup with FastAPI, Next.js, PostgreSQL, LangChain, and OpenAI"
-   ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
